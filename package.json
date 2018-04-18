@@ -1,0 +1,20 @@
+{
+  "name": "NODEJS",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Ini package",
+  "main": "Test_Node.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.4",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
